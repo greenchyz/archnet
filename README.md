@@ -1,2 +1,3 @@
 # archnet
-network for arch
+network setup for arch. Using wpa_passphrase to generate wpa.txt
+wpa_passphrase ssid passphrase > wpa.txt
